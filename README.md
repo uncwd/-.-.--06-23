@@ -4,8 +4,9 @@
 2.	Скриншот в режиме Prototype:
 <img width="1033" height="743" alt="image" src="https://github.com/user-attachments/assets/4d0d8133-5ffa-4772-b326-dee0780ee73e" />
 3.	Скриншоты в режиме Present:
-   1) <img width="433" height="874" alt="image" src="https://github.com/user-attachments/assets/8cf71171-e94b-47b5-98d9-26ab5f148c5e" />
-   2) <img width="432" height="873" alt="image" src="https://github.com/user-attachments/assets/28d837bf-6f3e-40b0-9c8e-0e89ed37b3db" />
-   3) <img width="436" height="865" alt="image" src="https://github.com/user-attachments/assets/d07ff5f4-2840-4a51-8885-bc456ddd6b8c" />
+   
+   1) <img width="216" height="435" alt="image" src="https://github.com/user-attachments/assets/8cf71171-e94b-47b5-98d9-26ab5f148c5e" />
+   2) <img width="216" height="435" alt="image" src="https://github.com/user-attachments/assets/28d837bf-6f3e-40b0-9c8e-0e89ed37b3db" />
+   3) <img width="216" height="435" alt="image" src="https://github.com/user-attachments/assets/d07ff5f4-2840-4a51-8885-bc456ddd6b8c" />
 
 
